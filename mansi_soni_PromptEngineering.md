@@ -1,6 +1,7 @@
 # Prompt Engineering Portfolio
 Name: Mansi Soni
-Date: Gemini 3.5 Flash
+Date: 06.06.2026
+LLM: Gemini 3.5 Flash
 
 ## Part 1: Prompt Design & Iteration
 ### 1.1 Scenario A: Technical Explanation
